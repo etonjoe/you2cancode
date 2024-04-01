@@ -1,4 +1,2 @@
 # you2cancode
 Development initiative to build capacity of youths in poor communities
-
-https://camo.githubusercontent.com/b7408c53fc1b731b0cce2cfe62a8a65a4147876ffdeca3451d2d45b664344da9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d796f72656b26636f6c6f723d627269676874677265656e
